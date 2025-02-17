@@ -38,3 +38,11 @@ main .col img {
     height: 219px;
     width:219px;
 }
+
+main .col p {
+    padding: 10px;
+}
+
+.am {
+    text-align: left;
+}
